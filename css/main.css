@@ -1,0 +1,14 @@
+#gameCanvas {
+	margin: 50px auto;
+	border: 3px solid #333333;
+	display: block;
+	background-color: #0b537a;
+}
+
+body {
+	background-color: #CCCCDD
+}
+
+h1 {
+	text-align: center;
+}
